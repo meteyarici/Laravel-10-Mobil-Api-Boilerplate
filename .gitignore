@@ -21,3 +21,9 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+.editorconfig
+.env.example
+.env
+.gitattributes
+.idea/
